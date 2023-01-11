@@ -40,3 +40,21 @@ After initializing the RDS i deleted the ec2 instance.
 ![image](https://user-images.githubusercontent.com/96833570/211910719-17d56fa3-c079-4d01-bfbb-f3804535bbab.png)
 
 ![image](https://user-images.githubusercontent.com/96833570/211910759-5c7db851-59ff-4cd6-9040-e3a417b0c110.png)
+
+After configuring the `/login` path, healthcheck turned from ok to severe.
+
+
+
+![image](https://user-images.githubusercontent.com/96833570/211918514-7c61039b-6ae6-48a4-8719-f6ae883e8397.png)
+
+## Revisiting `application.properties` / building the artifact and uploading on Beanstalk
+
+I added the endpoints accordingly and run  `mvn install`
+
+![image](https://user-images.githubusercontent.com/96833570/211921285-f1b5ba76-9ffa-4a6a-857a-ed8f0f47ee7f.png)
+
+
+
+![image](https://user-images.githubusercontent.com/96833570/211925112-002b8d5b-8981-45dc-9324-080478dc0134.png)
+
+## Adding 

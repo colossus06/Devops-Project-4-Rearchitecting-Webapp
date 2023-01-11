@@ -37,3 +37,6 @@ After initializing the RDS i deleted the ec2 instance.
 ## Beanstalk
 
 
+![image](https://user-images.githubusercontent.com/96833570/211910719-17d56fa3-c079-4d01-bfbb-f3804535bbab.png)
+
+![image](https://user-images.githubusercontent.com/96833570/211910759-5c7db851-59ff-4cd6-9040-e3a417b0c110.png)

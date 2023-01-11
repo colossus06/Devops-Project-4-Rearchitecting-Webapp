@@ -57,4 +57,14 @@ I added the endpoints accordingly and run  `mvn install`
 
 ![image](https://user-images.githubusercontent.com/96833570/211925112-002b8d5b-8981-45dc-9324-080478dc0134.png)
 
-## Adding 
+![image](https://user-images.githubusercontent.com/96833570/211925550-b98dc885-d5b3-4d08-881c-a8f35463a514.png)
+
+
+## Adding cname entries pointing to the beanstalk endpoint
+
+I updated the dns entry and waited for some time for my ISP to cache the request
+
+![image](https://user-images.githubusercontent.com/96833570/211926159-5a3eb6bd-63a3-4039-afdc-1d5c56305fac.png)
+
+
+

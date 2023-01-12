@@ -1,4 +1,7 @@
-# Devops-Project-4-Rearchitecting-Webapp
+# Devops-Project-4-Refactoring-Java-Webapp-on-AWS
+
+![image](https://user-images.githubusercontent.com/96833570/212187295-07e6a1c9-4542-455e-9202-8db147e0b560.png)
+
 
 # Backend Setup
 

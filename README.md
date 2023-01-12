@@ -64,7 +64,13 @@ I added the endpoints accordingly and run  `mvn install`
 
 I updated the dns entry and waited for some time for my ISP to cache the request
 
-![image](https://user-images.githubusercontent.com/96833570/211926159-5a3eb6bd-63a3-4039-afdc-1d5c56305fac.png)
+![image](https://user-images.githubusercontent.com/96833570/212160914-ea2b5abb-3781-4103-b9c8-df1c76d71c01.png)
+
+
+## Validation
+
+
+https://user-images.githubusercontent.com/96833570/212174567-75ca3b94-78e2-4d81-b10c-e238addae067.mp4
 
 
 
